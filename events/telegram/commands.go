@@ -8,7 +8,7 @@ import (
 
 const (
 	changeTargetCmd = "/target"
-	HumorCmd        = "/anekdot"
+	HumorCmd        = "/anecdote"
 	HelpCmd         = "/help"
 	StartCmd        = "/start"
 )

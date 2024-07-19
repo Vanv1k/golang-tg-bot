@@ -1,6 +1,8 @@
 package telegram
 
-const msgHelp = `My name is gigaChat. I can insert funny phrases during conversations`
+const msgHelp = `My name is GigaChad. I'm fun and interactive bot 
+designed to bring humor and entertainment to your chats. I have the ability to spam stickers in response to 
+messages from a specific target user. You can change the target user manually.`
 
 const msgHello = `Hello! \n\n` + msgHelp
 
